@@ -5,20 +5,20 @@ export default function App() {
     <main className="page">
       <section className="hero">
         <div className="hero__content">
-          <span className="hero__badge">Experimento 3D</span>
-          <h1>Testando React + Three.js no portfólio</h1>
+          <span className="hero__badge">Laboratório visual 3D</span>
+          <h1>Teste de interface com React e Three.js</h1>
           <p>
-            Esta é uma base inicial para explorar elementos 3D com um visual
-            moderno, leve e elegante. A ideia aqui é testar sem mexer no seu
-            site principal.
+            Este projeto foi criado para experimentar elementos 3D em uma seção
+            hero, explorando movimento, iluminação e presença visual sem mexer
+            no portfólio principal.
           </p>
 
           <div className="hero__actions">
             <button type="button" className="btn btn--primary">
-              Ver ideia
+              Teste visual
             </button>
             <button type="button" className="btn btn--ghost">
-              Explorar visual
+              Explorar conceito
             </button>
           </div>
         </div>
